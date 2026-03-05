@@ -10,16 +10,9 @@ The skills showcased in the project are understanding of html layout and the app
 
 ## Technology:
 
-<p>
-  <span style="display:inline-block; text-align:center; margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="70"><br>
-    HTML
-  </span>
-  <span style="display:inline-block; text-align:center;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="70"><br>
-    VS Code
-  </span>
-</p>
+| <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="70"> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="70"> |
+| :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                            HTML                                                             |                                                                  VS Code                                                                  |
 
 ## Commands:
 
