@@ -13,12 +13,16 @@ main {
 }
 /** header style **/
 .header-container {
+  position: fixed;
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
   background-color: antiquewhite;
+  top: 0;
+  /* left: 0;
+  right: 0; */
 }
 .logo {
   width: 80px;
@@ -32,6 +36,7 @@ main {
   max-width: 100%;
   border-radius: 25px;
 }
+
 .navBar-items-container {
   display: flex;
   flex-direction: row;
@@ -39,10 +44,24 @@ main {
   cursor: pointer;
   list-style-type: none;
   font-size: 25px;
+  font-weight: bold;
+}
+
+.navBar-items-container :hover {
+  color: back;
+  cursor: pointer;
+
+  text-decoration: underline;
 }
 
 a {
   text-decoration: none;
+}
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
 }
 
 input {
